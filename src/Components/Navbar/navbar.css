@@ -1,0 +1,26 @@
+
+nav {
+    -webkit-box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.61);
+    -moz-box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.61);
+    box-shadow: 0px 10px 20px 0px rgba(0,0,0,0.61);    
+}
+
+.form-control{
+    border-width: 1px 0 1px 1px;
+    margin-right: -8px;
+}
+.search_Btn{
+    background-color: #1d0632;
+    border-width: 0;
+    border-radius: 0 5px 5px 0;
+}
+.bi-search{
+    color: #fff;
+}
+.bi-person-circle, .bi-bell-fill{
+    color: rgba(0, 0, 0, 0.288);
+    font-size: 1.5rem;
+}
+.profile__Container{
+    margin-right: 10px;
+}
